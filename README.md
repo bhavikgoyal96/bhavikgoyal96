@@ -36,7 +36,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
 
 ### AI & Machine Learning
