@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:312E81,100:06B6D4&text=Bhavik%20Goyal%20Jain&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:312E81,100:06B6D4&text=Bhavik%20Goyal%20&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
